@@ -1,0 +1,14 @@
+body > footer {
+    background:#111;
+    color:#ccc;
+    padding:40px 20px;
+    font-family:Arial, sans-serif; 
+}
+body > footer > div{
+        max-width:1200px;
+        margin:auto;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-between;
+        gap:30px;
+}
