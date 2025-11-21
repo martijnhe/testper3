@@ -13,3 +13,6 @@ body > footer > p.copyright{
     color: #CCC;
     text-align: center;
 }
+.scrollable-website{
+    background-image: image(url('./images/scrollable-website.jpg'))  ;
+}
