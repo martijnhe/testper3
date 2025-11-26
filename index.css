@@ -13,6 +13,10 @@ body > footer > p.copyright{
     color: #CCC;
     text-align: center;
 }
-.scrollable-website{
-    background-image: image(url('./images/scrollable-website.jpg'))  ;
+.content-section1,.content-section2,.content-section3,.content-section4, .content-section5 {
+    display:grid;
+    grid-template-columns: auto auto;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
 }
